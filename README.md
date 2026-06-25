@@ -112,3 +112,17 @@ Diksha Chothe
 B.Tech Computer Science & Engineering
 
 Aspiring Java Full Stack Developer
+
+## Screenshots
+
+### Home Page
+![Home Page](student/home.jpeg)
+
+### Login Page
+![Login Page](student/login.jpeg)
+
+### Student Profile
+![Student Profile](student/profile.jpeg)
+
+### Registration Page
+![Registration Page](student/registration.jpeg)
